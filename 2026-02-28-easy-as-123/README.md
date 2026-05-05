@@ -33,7 +33,7 @@ Filter: `Rolf`
 Cross-referenced DC traffic to extract the full display name.
 
 ## Screenshots
-_(Add your annotated screenshots in the `/screenshots` folder)_
+See [Screenshots](./screenshots) for full screenshots
 
 ## Findings
 See [incident-report.md](./incident-report.md) for full details.
